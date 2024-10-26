@@ -14,5 +14,5 @@ steps:
     args:
       [
         "push",
-        "northamerica-northeast1-docker.pkg.dev/shop-microservices-439802/image-registry/auth-microservice",
+        "northamerica-northeast1-docker.pkg.dev/shop-microservices-439802/image-registry/auth-microservice", 
       ]
